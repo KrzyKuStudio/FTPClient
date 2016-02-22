@@ -1,0 +1,8 @@
+J:\PRG\cs\WF\CS Tworzenie applikacji siec ksiazka\KlientFTP\KlientFTP\bin\Debug\KlientFTP.exe
+J:\PRG\cs\WF\CS Tworzenie applikacji siec ksiazka\KlientFTP\KlientFTP\bin\Debug\KlientFTP.pdb
+J:\PRG\cs\WF\CS Tworzenie applikacji siec ksiazka\KlientFTP\KlientFTP\obj\Debug\KlientFTP.csprojResolveAssemblyReference.cache
+J:\PRG\cs\WF\CS Tworzenie applikacji siec ksiazka\KlientFTP\KlientFTP\obj\Debug\KlientFTP.FormMain.resources
+J:\PRG\cs\WF\CS Tworzenie applikacji siec ksiazka\KlientFTP\KlientFTP\obj\Debug\KlientFTP.Properties.Resources.resources
+J:\PRG\cs\WF\CS Tworzenie applikacji siec ksiazka\KlientFTP\KlientFTP\obj\Debug\KlientFTP.csproj.GenerateResource.Cache
+J:\PRG\cs\WF\CS Tworzenie applikacji siec ksiazka\KlientFTP\KlientFTP\obj\Debug\KlientFTP.exe
+J:\PRG\cs\WF\CS Tworzenie applikacji siec ksiazka\KlientFTP\KlientFTP\obj\Debug\KlientFTP.pdb
